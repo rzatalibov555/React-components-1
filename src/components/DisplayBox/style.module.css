@@ -1,0 +1,9 @@
+
+.display_box{
+    width: 250px;
+    min-height: 240px;
+    background-color: rgb(27, 24, 24);
+    float: left;
+    padding: 20px;
+    margin: 15px;
+}

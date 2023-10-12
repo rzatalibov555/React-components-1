@@ -1,0 +1,10 @@
+
+
+.box{
+    width: 250px;
+    min-height: 50px;
+    background-color: grey;
+    float: left;
+    padding: 20px;
+    margin: 15px;
+}
